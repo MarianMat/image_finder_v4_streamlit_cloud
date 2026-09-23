@@ -1,0 +1,5 @@
+streamlit>=1.45,<2
+openai>=1.68
+qdrant-client>=1.14
+python-dotenv>=1.0
+Pillow>=10.0
